@@ -64,6 +64,24 @@ The app compares your installed version with the latest *Release* in this repo a
 
 ---
 
+## 💜 Support / Donate
+
+If RetroVision is useful to you, you can support the work with crypto — thank you! 🙏
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="donate/qr_btc.png" width="160" alt="Bitcoin QR"><br><b>Bitcoin (BTC)</b></td>
+    <td align="center"><img src="donate/qr_sol.png" width="160" alt="Solana QR"><br><b>Solana (SOL)</b></td>
+    <td align="center"><img src="donate/qr_eth.png" width="160" alt="Ethereum QR"><br><b>Ethereum (ETH)</b></td>
+  </tr>
+</table>
+
+| Coin | Address |
+|---|---|
+| **Bitcoin (BTC)** | `bc1qwp57z0dg0cfa5s2r5mpll7y0aaxsewpmwe26w3` |
+| **Ethereum (ETH)** | `0xb3aa08be8275fdc92c61fbce1d5e96961c55cf72` |
+| **Solana (SOL)** | `J8wf8j2QVR85Ruzjgdb6UxoKJeLqa4v8EjvpkTcxwvHz` |
+
 ## 🧩 Credits & foundation
 
 RetroVision is a **customization/fork of [RetroBat](https://www.retrobat.org/)**, which itself integrates **EmulationStation** (Batocera ecosystem) and many open-source emulators. Full credit to the original projects and their respective communities and licenses.
