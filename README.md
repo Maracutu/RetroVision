@@ -6,6 +6,10 @@
 
 <p align="center"><b>Your home for retro and modern gaming, all in one place — from Atari to PS5.</b></p>
 
+<p align="center">
+  <a href="#donate"><img src="https://img.shields.io/badge/%F0%9F%92%9C%20Donate-Support%20the%20project-FF2E88?style=for-the-badge" alt="Donate"></a>
+</p>
+
 **RetroVision** is an emulation front-end for **Windows** featuring a massive, system-organized library, a custom interface, and a **cloud-based game library**: games appear as lightweight shortcuts and are downloaded on demand from Google Drive. This repository is also the official channel for RetroVision's **automatic updates**.
 
 ---
@@ -64,6 +68,7 @@ The app compares your installed version with the latest *Release* in this repo a
 
 ---
 
+<a id="donate"></a>
 ## 💜 Support / Donate
 
 If RetroVision is useful to you, you can support the work with crypto — thank you! 🙏
